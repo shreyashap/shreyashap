@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 👋 Hey! I'm a web enthusiast skilled in HTML, CSS, JS, Bootstrap, and EJS. <br>🚀 Love playing with APIs and contributing to open-source projects on GitHub using Git. <br>Currently learning and exploring in the field of web development and Intermediate at C++. <br>Let's code and learn together! 🌐<br>💻 #WebDev #OpenSource 🌱
+🔭 👋 Hey! I'm a web enthusiast skilled in HTML, CSS, JS and  MERN Stack. <br>🚀 Love to build cool APIs and contributing to open-source projects on GitHub using Git. <br>Currently learning and exploring in the field of web development and Intermediate at C++. <br>Let's code and learn together! 🌐<br>💻 #WebDev #OpenSource 🌱
 
 <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
