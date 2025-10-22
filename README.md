@@ -1,5 +1,23 @@
-# 💫 About Me:
-🔭 👋 Hey! I'm a web enthusiast skilled in HTML, CSS, JS and  MERN Stack. <br>🚀 Love to build cool APIs and contributing to open-source projects on GitHub using Git. <br>Currently learning and exploring in the field of web development and Intermediate at C++. <br>Let's code and learn together! 🌐<br>💻 #WebDev #OpenSource 🌱
+💫 About Me
+
+Hi there! 👋 I'm Shreyash Patil, a Computer Science student and a passionate full-stack web developer who loves turning ideas into interactive and efficient web applications.
+
+🚀 I specialize in building modern web apps using the MERN stack (MongoDB, Express, React, Node.js) and crafting responsive, user-friendly interfaces with HTML, CSS, and JavaScript.
+💡 I'm also improving my problem-solving and software design skills.
+🌱 I enjoy contributing to open-source projects and collaborating with other developers to learn and grow together.
+
+💼 Experience
+
+💻 Intern at Melsta — currently working on full-stack development projects.
+
+🌟 Developer Mentee (DMP 2025) at C4GT (Code for GovTech) — contributing to open-source initiatives for public good.
+
+🌐 Interests
+
+Web Development • Open Source • Frontend Devloper • Full-Stack Developer 
+
+Let’s connect, collaborate, and build something awesome! ⚡
+#WebDev #OpenSource #MERN
 
 <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
