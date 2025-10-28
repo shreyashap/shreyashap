@@ -8,7 +8,7 @@ Hi there! 👋 I'm Shreyash Patil, a Computer Science student and a passionate f
 
 💼 Experience
 
-💻 Intern at Melsta — currently working on full-stack development projects.
+💻 Intern at Melsta — currently working on full-stack developer Intern.
 
 🌟 Developer Mentee (DMP 2025) at C4GT (Code for GovTech) — contributing to open-source initiatives for public good.
 
