@@ -1,23 +1,32 @@
 💫 About Me
+# Hi, I'm Shreyash Patil 👋
 
-Hi there! 👋 I'm Shreyash Patil, a Computer Science student and a passionate full-stack web developer who loves turning ideas into interactive and efficient web applications.
+I'm a recent computer science graduate and an aspiring **Software Engineer** passionate about building reliable, scalable, and user-focused software.
 
-🚀 I specialize in building modern web apps using the MERN stack (MongoDB, Express, React, Node.js) and crafting responsive, user-friendly interfaces with HTML, CSS, and JavaScript.
-💡 I'm also improving my problem-solving and software design skills.
-🌱 I enjoy contributing to open-source projects and collaborating with other developers to learn and grow together.
+I enjoy working across the software development lifecycle — from understanding problems and designing solutions to building, testing, and integrating applications. I'm particularly interested in web development, backend systems, and creating clean and maintainable software.
 
-💼 Experience
+## 💼 Experience
 
-💻 Intern at Melsta — currently working as full-stack developer Intern.
+**Full-Stack Development Intern — Melsta Studio**
+Working on real-world product features across frontend and backend, building user-facing interfaces, developing and integrating APIs, working with databases, and contributing to product improvements.
 
-🌟 Developer Mentee (DMP 2025) at C4GT (Code for GovTech) — contributing to open-source initiatives for public good.
+**Developer Mentee — Code for GovTech (C4GT), DMP 2025**
+Contributed to open-source initiatives focused on technology for public good while collaborating with developers and following real-world software engineering practices.
 
-🌐 Interests
+## 🛠️ Tech Stack
 
-Web Development • Open Source • Frontend Devloper • Full-Stack Developer 
+* **Languages:** JavaScript, TypeScript, Go, C++
+* **Frontend:** React, Next.js, HTML, CSS
+* **Backend:** Node.js, Go, REST APIs, Nest.js
+* **Databases:** PostgreSQL, MongoDB
+* **Tools:** Git, GitHub,
+* **Devops:** AWS, Docker, CI/CD
 
-Let’s connect, collaborate, and build something awesome! ⚡
-#WebDev #OpenSource #MERN
+## 🌱 Interests
+
+Software Engineering • Web Development • Backend Systems • Frontend Development • Open Source • Problem Solving
+
+I'm always learning, building, and looking for opportunities to solve meaningful problems through software.
 
 <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
